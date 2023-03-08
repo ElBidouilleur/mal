@@ -109,6 +109,8 @@ r/mal.r
 ruby/mal.rb
 .cargo/
 rust/target/
+rust.2/target/
+rust.2/.idea/
 rust/Cargo.lock
 rust/.cargo
 r/lib
